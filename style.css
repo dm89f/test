@@ -22,7 +22,7 @@ input{
     margin:20px
 }
 
-button[type="submit"]{
+button[ type = "submit" ]{
     height:40px;
     border-radius: 5px;
     background-color: rgba(28, 243, 28, 0.863);
