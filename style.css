@@ -1,0 +1,29 @@
+body{
+
+    background-color: aquamarine;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#container{
+    margin:10px;
+    padding:20px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    border-radius:5px
+}
+
+input{
+
+    margin:20px
+}
+
+button[type="submit"]{
+    height:40px;
+    border-radius: 5px;
+    background-color: rgba(28, 243, 28, 0.863);
+}
